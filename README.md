@@ -110,6 +110,9 @@ The API will start running on http://localhost:8080.
         Method: GET
         URL: http://localhost:8080/non-infected-survivors
 
+## Testing
+Postman was used to test this API
+
 ## Caching Robot Data
 The application caches robot data for performance. The cache duration is set to 5 minutes (configurable). Robot data is fetched from an external API endpoint (https://robotstakeover20210903110417.azurewebsites.net/robotcpu).
 
